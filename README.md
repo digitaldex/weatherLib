@@ -14,3 +14,5 @@ For General use have a look at main() from weather.c.
 I would like to see [BACnet](https://sourceforge.net/projects/bacnet/) functionality within the Lib. 
 
 Feel free to help
+
+http://www.digitaldex.de/smarthome-weather-library/
